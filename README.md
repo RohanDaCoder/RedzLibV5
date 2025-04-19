@@ -1,11 +1,9 @@
 Loadstring:
-```
-lua
+``` lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RohanDaCoder/RedzLibV5/refs/heads/main/Source.lua"))()
 ```
 
-```
-lua
+``` lua
 --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
