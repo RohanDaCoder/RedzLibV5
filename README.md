@@ -4,16 +4,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/RohanDaCoder/RedzLibV
 ```
 
 ``` lua
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
---[[
-Credits goes to REDz.
-And you can find more here! [This is v5 version]
-https://github.com/REDzHUB/RedzLibV5
-And maybe some things may not work correctly (doesn't to me)
-]]--
-
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RohanDaCoder/RedzLibV5/refs/heads/main/Source.lua"))()
 
 local Window = redzlib:MakeWindow({
